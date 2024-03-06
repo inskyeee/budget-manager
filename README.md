@@ -5,7 +5,7 @@ A Python-based budget management tool to categorize and visualize financial tran
 ## Project Structure
 
 ```plaintext
-budget_manager/
+budget-manager/
 ├── bank_statement_example.xls    # Example bank statement in Excel format
 ├── categorization.py             # Script for categorizing transactions
 ├── data.db                       # SQLite database for storing transaction data
